@@ -29,7 +29,7 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: {r: 1, g: 1, b: 1, a: 1}
   highQualityFiltering:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
   skipIterations:
     m_OverrideState: 0
@@ -93,9 +93,9 @@ MonoBehaviour:
     m_Value: {r: 0.86899304, g: 1, b: 0, a: 1}
   hueShift:
     m_OverrideState: 0
-    m_Value: -2
+    m_Value: -4
   saturation:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 31
 --- !u!114 &-212841976565251350
 MonoBehaviour:
