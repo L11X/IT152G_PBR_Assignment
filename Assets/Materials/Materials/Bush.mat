@@ -173,7 +173,7 @@ Material:
     - _Metallic2: 0
     - _Metallic3: 0
     - _NumLayersCount: 1
-    - _OcclusionStrength: 1
+    - _OcclusionStrength: 0.507
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
