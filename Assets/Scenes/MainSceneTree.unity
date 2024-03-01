@@ -11193,7 +11193,7 @@ Light:
   serializedVersion: 10
   m_Type: 0
   m_Shape: 0
-  m_Color: {r: 0.5803922, g: 0.94509804, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.91764706, b: 0.5803922, a: 1}
   m_Intensity: 2
   m_Range: 5
   m_SpotAngle: 131.77638
@@ -34473,7 +34473,7 @@ PrefabInstance:
     - target: {fileID: 6107235119315095939, guid: a2df3e78b96006646a47ff855ed1908e,
         type: 3}
       propertyPath: m_CastShadows
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7472735040191338575, guid: a2df3e78b96006646a47ff855ed1908e,
         type: 3}
